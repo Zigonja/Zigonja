@@ -2,7 +2,7 @@
 - 👀 I’m interested in designing & developing frontend applications, I find React to be the tool I'm most skilled with
 - 🌱 I’m currently learning how to design products that users love
 - 💞️ I’m looking to collaborate on anything that I find fun
-- 📫 How to reach me ziga.klemencic98@gmail.com
+- 📫 Reach me at ziga.klemencic98@gmail.com
 
 <!---
 Zigonja/Zigonja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
